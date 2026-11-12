@@ -62,7 +62,7 @@ Provides structured analytical datasets optimized for SQL queries and Power BI r
 
 ## 📊 Analytics & Business Intelligence
 
-### SQL Data Analytics
+### 🔎 SQL Data Analytics
 
 **Exploratory Data Analysis**
 - Data exploration
@@ -78,7 +78,7 @@ Provides structured analytical datasets optimized for SQL queries and Power BI r
 - Data segmentation
 - Final reporting
 
-### The Power BI Solution Across Three Main Areas:
+### 📈 The Power BI Solution Across Three Main Areas:
 
 **Sales Performance Dashboard**
 - Revenue and ticket sales trends
