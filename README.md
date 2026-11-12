@@ -62,6 +62,22 @@ Provides structured analytical datasets optimized for SQL queries and Power BI r
 
 ## 📊 Analytics & Business Intelligence
 
+Data Analytics using SQL:
+
+**Exploratory Data Analysis**
+- Data exploration
+- Measures
+- Magnitude
+- Ranking
+
+**Advanced Analytics**
+- Trends
+- Cumulative analysis
+- Performance analysis
+- Part-to-whole
+- Data segmentation
+- Final reporting
+
 The final Power BI solution will provide interactive reporting across three main areas:
 
 **Sales Performance Dashboard**
@@ -93,7 +109,6 @@ The final Power BI solution will provide interactive reporting across three main
 | Power Query | Data preparation and transformation |
 | DAX | Financial and operational KPI calculations |
 | Microsoft Excel | Source data files |
-| draw.io | Data architecture and dimensional model diagrams |
 | Git & GitHub | Version control, documentation, and project management |
 
 ## 🚀 Project Requirements
