@@ -62,7 +62,7 @@ Provides structured analytical datasets optimized for SQL queries and Power BI r
 
 ## 📊 Analytics & Business Intelligence
 
-Data Analytics using SQL:
+### SQL Data Analytics
 
 **Exploratory Data Analysis**
 - Data exploration
@@ -78,7 +78,7 @@ Data Analytics using SQL:
 - Data segmentation
 - Final reporting
 
-The final Power BI solution will provide interactive reporting across three main areas:
+### The Power BI Solution Across Three Main Areas:
 
 **Sales Performance Dashboard**
 - Revenue and ticket sales trends
