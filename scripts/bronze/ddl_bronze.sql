@@ -39,7 +39,8 @@ CREATE TABLE bronze.sales (
     vat                 DECIMAL(18,2),
     port_fee            DECIMAL(18,2),
     transaction_id      VARCHAR(50),
-    transaction_type    VARCHAR(50)
+    transaction_type    VARCHAR(50),
+    reporting_period    DATE
 );
 GO
 
@@ -74,7 +75,8 @@ CREATE TABLE bronze.travel (
     vat                 DECIMAL(18,2),
     port_fee            DECIMAL(18,2),
     transaction_id      VARCHAR(50),
-    transaction_type    VARCHAR(50)
+    transaction_type    VARCHAR(50),
+    reporting_period    DATE
 );
 GO
 
@@ -113,7 +115,8 @@ CREATE TABLE bronze.boarding (
     total_units             INT,
     vat                     DECIMAL(18,2),
     port_fee                DECIMAL(18,2),
-    revenue                 DECIMAL(18,2)
+    revenue                 DECIMAL(18,2),
+    reporting_period        DATE
 );
 GO
 
