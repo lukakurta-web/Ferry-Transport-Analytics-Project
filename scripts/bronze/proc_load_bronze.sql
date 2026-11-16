@@ -14,6 +14,7 @@ Usage Example:
     EXEC bronze.load_bronze @year = 2025, @month = 1;
 ===============================================================================
 */
+
 CREATE OR ALTER PROCEDURE bronze.load_bronze
     @year INT,
     @month INT
