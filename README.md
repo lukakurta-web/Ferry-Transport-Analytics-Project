@@ -7,7 +7,7 @@ This project demonstrates the design and implementation of a comprehensive data 
 
 The project covers the complete data analytics lifecycle:
 
-- **Data Architecture:** Design a scalable SQL Server data warehouse using Bronze, Silver, and Gold layers.
+- **Data Architecture:** Design SQL Server data warehouse using Bronze, Silver, and Gold layers.
 - **Data Integration:** Consolidate monthly Excel reports from multiple operational and financial data sources across 2025, 2026, and future periods.
 - **ETL Development:** Develop SQL-based processes for data ingestion, cleansing, standardization, transformation, and validation.
 - **Data Modeling:** Implement a Star Schema consisting of fact and dimension tables optimized for analytical reporting.
